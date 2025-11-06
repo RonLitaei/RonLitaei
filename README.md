@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @RonLitaei
-- 🌱 I’m currently learning computer science 
+wassup
